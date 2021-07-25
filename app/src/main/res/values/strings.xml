@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Movies</string>
+    <string name="search_hint">Поиск по названию фильма</string>
+    <string name="btn_search_clear_description">Очистить строку поиска</string>
+    <string name="btn_like_description">Добавить в избранное</string>
+    <string name="icon_search_description">Иконка поиска</string>
+    <string name="icon_calendar_description">Иконка календаря</string>
+    <string name="image_movie_description">Обложка фильма</string>
+</resources>
